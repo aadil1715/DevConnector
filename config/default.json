@@ -1,4 +1,4 @@
 {
-    "mongoURI" : "mongodb+srv://aadil:aadil123@cluster0.mygdp.mongodb.net/test?retryWrites=true&w=majority",
+    "mongoURI" : "ADD YOUR MONGO DB URI HERE",
     "jwtSecret" : "SecretToken"
 }
