@@ -1,4 +1,5 @@
 /* Global Styles */
+
 :root {
   --primary-color: #17a2b8;
   --dark-color: #343a40;
@@ -333,7 +334,7 @@ button {
 /* Landing Page */
 .landing {
   position: relative;
-  background: url('img/showcase.jpg') no-repeat center center/cover;
+  background: url('./img/showcase.jpg') no-repeat center center/cover;
   height: 100vh;
 }
 
